@@ -1,0 +1,4 @@
+In this without strategy Pattern
+OffRoadVehicle and SportsVehicle
+same drive code : so here it is duplicate
+but this code is not available in parent class
